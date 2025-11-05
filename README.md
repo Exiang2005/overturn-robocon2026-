@@ -18,8 +18,6 @@ sudo mkdir gazebo_test_ws
 
 ### 【2】将src文件放在 gazebo_test_ws 文件夹下
 
-![](fec6f19794d21a7d0be4cdc2044ddc4c.png)
-
 ```
 cd gazebo_test_ws
 catkin_make
