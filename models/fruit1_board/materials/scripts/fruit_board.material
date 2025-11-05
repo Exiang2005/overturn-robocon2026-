@@ -1,0 +1,15 @@
+material FruitBoard
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture banana.png
+                scale 1 1
+                rotate 90
+            }
+        }
+    }
+}

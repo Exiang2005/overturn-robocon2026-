@@ -1,0 +1,15 @@
+material VageBoard
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture tomato.png
+                scale 1 1
+                rotate 90
+            }
+        }
+    }
+}

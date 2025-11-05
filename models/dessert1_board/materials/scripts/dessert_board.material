@@ -1,0 +1,15 @@
+material DessertBoard
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture cake.png
+                scale 1 1
+                rotate 90
+            }
+        }
+    }
+}
